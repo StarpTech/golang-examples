@@ -1,3 +1,5 @@
+//http://starp-germany.de/blog/dynamic-in-go/
+
 package main
 
 import (
